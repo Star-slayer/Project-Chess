@@ -17,7 +17,7 @@ let main = {
         b_king: '&#9818;',
         b_queen: '&#9819;',
         b_bishop: '&#9821;',
-        b_knight: '&#9822;',
+        b_knight: '&#9822;', 
         b_rook: '&#9820;',
 		b_pawn: '&#9823;',
 		_ : '', // represents an empty cell
